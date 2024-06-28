@@ -58,9 +58,9 @@ $> make re
 | docs        | Writing or updating documentation                                                                                         |
 | test        | Addition or modification of tests                                                                                         |
 
-[ci-ai]: https://github.com/EpitechPromo2027/B-YEP-400-BDX-4-1-zappy-jules.sourbets/actions/workflows/AI.yml
-[ci-ai-badge]: https://github.com/EpitechPromo2027/B-YEP-400-BDX-4-1-zappy-jules.sourbets/actions/workflows/AI.yml/badge.svg
-[ci-gui]: https://github.com/EpitechPromo2027/B-YEP-400-BDX-4-1-zappy-jules.sourbets/actions/workflows/GUI.yml
-[ci-gui-badge]: https://github.com/EpitechPromo2027/B-YEP-400-BDX-4-1-zappy-jules.sourbets/actions/workflows/GUI.yml/badge.svg
-[ci-server]: https://github.com/EpitechPromo2027/B-YEP-400-BDX-4-1-zappy-jules.sourbets/actions/workflows/Server.yml
-[ci-server-badge]: https://github.com/EpitechPromo2027/B-YEP-400-BDX-4-1-zappy-jules.sourbets/actions/workflows/Server.yml/badge.svg
+[ci-ai]: https://github.com/Periicles/Zappy/actions/workflows/AI.yml
+[ci-ai-badge]: https://github.com/Periicles/Zappy/actions/workflows/AI.yml/badge.svg
+[ci-gui]: https://github.com/Periicles/Zappy/actions/workflows/GUI.yml
+[ci-gui-badge]: https://github.com/Periicles/Zappy/actions/workflows/GUI.yml/badge.svg
+[ci-server]: https://github.com/Periicles/Zappy/actions/workflows/Server.yml
+[ci-server-badge]: https://github.com/Periicles/Zappy/workflows/Server.yml/badge.svg
