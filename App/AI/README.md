@@ -83,5 +83,5 @@ Each player responds to the following actions and only to these, with the follow
 
 > In case of a bad/unknown command, the server must answer “ko”.
 
-[ci-ai]: https://github.com/EpitechPromo2027/B-YEP-400-BDX-4-1-zappy-jules.sourbets/actions/workflows/AI.yml
-[ci-ai-badge]: https://github.com/EpitechPromo2027/B-YEP-400-BDX-4-1-zappy-jules.sourbets/actions/workflows/AI.yml/badge.svg
+[ci-ai]: https://github.com/Periicles/Zappy/workflows/AI.yml
+[ci-ai-badge]: https://github.com/Periicles/Zappy/actions/workflows/AI.yml/badge.svg
